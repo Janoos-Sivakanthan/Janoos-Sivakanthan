@@ -9,7 +9,7 @@
 
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Sivakanthan-Janoos">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sivakanthan-Janoos&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Sivakanthan-Janoos's GitHub Stats" />
